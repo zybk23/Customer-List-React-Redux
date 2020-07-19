@@ -1,0 +1,28 @@
+.taha{
+    background-color: antiquewhite;
+}
+
+.img{
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+}
+.middle{
+    width: 400px;
+    height: 400px;
+    margin-left: 15px;
+}
+
+.top {
+    width: 400px;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+}
+
+.bottom {
+    width: 400px;
+    height: 200px;
+    padding-top:30px ;
+    padding-left: 80px;
+}

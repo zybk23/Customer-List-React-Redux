@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "customerName": "Ammar Çelenk",
+      "img": "https://www.manzara.gen.tr/w1/hdr-fethiye-manzaralar.jpg",
+      "customerType": "Tuzel",
+      "tckn_vkn": "12421423432",
+      "adress": "izmit",
+      "gsm": "05556468596",
+      "email": "ammar@gmail.com",
+      "portalInfo": "ammar123",
+      "unvan": "Firma",
+      "relatedFirm": "B Firması",
+      "not": "ikinci not",
+      "id": 2
+    },
+    {
+      "customerName": "Fatih Çiçek",
+      "img": "https://www.manzara.gen.tr/w1/hdr-fethiye-manzaralar.jpg",
+      "customerType": "Tuzel",
+      "tckn_vkn": "12421423432",
+      "adress": "izmit",
+      "gsm": "1596544545",
+      "email": "fatih@gmail.com",
+      "portalInfo": "fatih123",
+      "unvan": "şahıs",
+      "relatedFirm": "C Firması",
+      "not": "Üçüncü not",
+      "id": 3
+    },
+    {
+      "customerName": "Taha Zeybek",
+      "img": "https://www.manzara.gen.tr/w1/hdr-fethiye-manzaralar.jpg",
+      "customerType": "Gercek",
+      "tckn_vkn": "45455456456454",
+      "adress": "Sancaktepe",
+      "gsm": "054454444646",
+      "email": "tahazeybek4@gmail.com",
+      "portalInfo": "taha123",
+      "unvan": "şahıs",
+      "relatedFirm": "A Firması",
+      "not": "İlk Yorum",
+      "id": 4
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+.layout{
+    display: grid;
+    grid-template-columns: 60% 35%;
+
+}
+
+.layout .btn {
+    float: right;
+    padding:10px 30px ;
+}

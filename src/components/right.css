@@ -1,0 +1,21 @@
+.right{
+    border-left: 1px solid gray ;
+    padding: 20px;
+    color:#7BA1E3;
+}
+.right .icon {
+    color:red;
+    cursor:pointer;
+    float: right;
+    font-size: 20px;
+}
+
+.right .btn-left{
+    float: left;
+    margin-bottom: 30px;
+}
+
+.right .btn-right{
+    float: right;
+    margin-bottom: 30px;
+}
